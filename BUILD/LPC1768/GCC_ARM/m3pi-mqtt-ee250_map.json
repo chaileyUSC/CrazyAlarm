@@ -1,0 +1,184 @@
+[
+    {
+        "module": "LEDThread.o", 
+        "size": {
+            ".data": 20, 
+            ".bss": 1876, 
+            ".text": 2508
+        }
+    }, 
+    {
+        "module": "MQTT/MQTTPacket", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 1824
+        }
+    }, 
+    {
+        "module": "PrintThread.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 1808, 
+            ".text": 256
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 11, 
+            ".bss": 26, 
+            ".text": 741
+        }
+    }, 
+    {
+        "module": "[lib]/c.a", 
+        "size": {
+            ".data": 2212, 
+            ".bss": 56, 
+            ".text": 40771
+        }
+    }, 
+    {
+        "module": "[lib]/gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 5496
+        }
+    }, 
+    {
+        "module": "[lib]/m.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 88
+        }
+    }, 
+    {
+        "module": "[lib]/misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 296
+        }
+    }, 
+    {
+        "module": "easy-connect/ATParser", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 131
+        }
+    }, 
+    {
+        "module": "easy-connect/atmel-rf-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 54
+        }
+    }, 
+    {
+        "module": "easy-connect/esp8266-driver", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3773
+        }
+    }, 
+    {
+        "module": "easy-connect/mcr20a-rf-driver", 
+        "size": {
+            ".data": 4, 
+            ".bss": 224, 
+            ".text": 88
+        }
+    }, 
+    {
+        "module": "easy-connect/stm-spirit1-rf-driver", 
+        "size": {
+            ".data": 4, 
+            ".bss": 224, 
+            ".text": 88
+        }
+    }, 
+    {
+        "module": "easy-connect/wifi-x-nucleo-idw01m1", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 28
+        }
+    }, 
+    {
+        "module": "m3pi.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 918
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 1312, 
+            ".text": 4134
+        }
+    }, 
+    {
+        "module": "mbed-os/drivers", 
+        "size": {
+            ".data": 0, 
+            ".bss": 52, 
+            ".text": 3736
+        }
+    }, 
+    {
+        "module": "mbed-os/features", 
+        "size": {
+            ".data": 89, 
+            ".bss": 96, 
+            ".text": 3867
+        }
+    }, 
+    {
+        "module": "mbed-os/hal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 26, 
+            ".text": 1189
+        }
+    }, 
+    {
+        "module": "mbed-os/platform", 
+        "size": {
+            ".data": 4, 
+            ".bss": 380, 
+            ".text": 5143
+        }
+    }, 
+    {
+        "module": "mbed-os/rtos", 
+        "size": {
+            ".data": 180, 
+            ".bss": 5988, 
+            ".text": 13740
+        }
+    }, 
+    {
+        "module": "mbed-os/targets", 
+        "size": {
+            ".data": 4, 
+            ".bss": 244, 
+            ".text": 4073
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 14892, 
+            "total_flash": 95490
+        }
+    }
+]
